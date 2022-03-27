@@ -1,8 +1,8 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
-  alt: website picture
+  src: /assets/img/profile.png
+  alt: eric laurits headshot
 ---
 
 <p>
@@ -11,6 +11,7 @@ profile_picture:
 
 <p>
 You can find me on my Seek the Joy (blog), Instagram, my upcoming newsletter, and my old photography archive.
-
+</p>
+<p>
 Currently our family is in foreign service in Nairobi, Kenya 🇰🇪. We will probably return to the US at some point.
 </p>
