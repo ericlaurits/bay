@@ -15,4 +15,3 @@ profile_picture:
 <p>
 Currently our family is in foreign service in Nairobi, Kenya 🇰🇪.
 </p>
-<p align="center"><iframe src="https://goseek.substack.com/embed" width="300" height="320" style="border:1px solid #FFFFFF; background:white;" frameborder="0" scrolling="no"></iframe></p>
