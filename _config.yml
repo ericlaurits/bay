@@ -18,6 +18,9 @@ header:
       link: https://www.seekthejoy.com
     - name: Newsletter
       link: https://goseek.substack.com
+   links:
+    - name: Newsletter2
+      link: https://goseek.substack.com
 
 footer:
   show_powered_by: true
