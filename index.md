@@ -10,7 +10,7 @@ profile_picture:
 </p>
 
 <p>
-  You can find me on at <a href="https://www.seekthejoy.com" target="_blank">Seek the Joy</a> (blog), <a href="https://www.instagram.com/ericlaurits" target="_blank">Instagram</a>, my upcoming <a href="https://goseek.substack.com" target="_blank">newsletter</a>, and my old <a href="https://www.ericlaurits.popsy.site" target="_blank">photography archive</a>.
+  You can find me at <a href="https://www.seekthejoy.com" target="_blank">Seek the Joy</a> (blog), <a href="https://www.instagram.com/ericlaurits" target="_blank">Instagram</a>, my upcoming <a href="https://goseek.substack.com" target="_blank">newsletter</a>, and my old <a href="https://www.ericlaurits.popsy.site" target="_blank">photography archive</a>.
 </p>
 <p>
 Currently our family is in foreign service in Nairobi, Kenya 🇰🇪.
