@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   educator, writer, recovering photographer
 baseurl: "/bay" # the subpath of the site
 url: "https://ericlaurits.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
+og_image: /assets/img/profile.png
 google_analytics: "#"
 
 header:
@@ -29,6 +29,8 @@ footer:
       username: "@ericlaurits"
     - name: Instagram
       link: http://instagram.com/ericlaurits
+    - name: linkedin
+      link: http://linkedin.com/ericlaurits
     - name: RSS
       link: /feed.xml
 
